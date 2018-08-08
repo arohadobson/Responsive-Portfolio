@@ -3,7 +3,16 @@
     padding: 0px;
 }
 body {
-    background-image: url('./images/spiration\ light/') repeat;
+    background: url('./images/spiration-light.png') repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    color: #777777;
+    border-color: #dddddd;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    clear: both;
 }
 .navName {
     background-color: #4aaaa5;
