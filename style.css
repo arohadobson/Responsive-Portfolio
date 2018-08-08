@@ -1,0 +1,147 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: url('../responsive_portfolio/images/spiration-light.png') repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    color: #777777;
+    border-color: #dddddd;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    clear: both;
+}
+
+h1, h2, h3, h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+header {
+    background: #ffffff;
+    border-bottom: 3px solid #cccccc;
+    margin-bottom: 30px;
+}
+
+navbar-nav ml-auto {
+    display: inline;
+}
+
+nav a {
+    color: #777777;
+    font-size: 16px;
+    padding: 5px 15px;
+    border-right: 1px solid #cccccc;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+form label {
+    font-size: 18px;
+    display: block;
+}
+
+form input, form textarea {
+    width: 100%;
+    display: block;
+    margin: 3px 0 20px 0;
+    border: 2px solid #cccccc;
+    padding: 6px;
+    font-size: 16px;
+}
+
+form button {
+    background: #4aaaa5;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 10px 0;
+    font-size: 16px;
+    border: none;
+}
+
+textarea {
+    height: 200px;
+}
+
+footer {
+    background: #666666;
+    border-top: 3px solid #4aaaa5;
+    color: #ccc;
+    text-align: center;
+    margin-top: 40px;
+    padding: 15px;
+    position: fixed;
+    height: 40px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    clear: both;
+}
+
+.contentbox {
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+}
+.btn-primary {
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+}
+
+.inLine-img {
+    float:left;
+    margin: 0 15px 15px 0;
+    width: 200px;
+    height: 200px;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    font-size: 26px;
+    height: 75px;
+    padding: 15px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #4aaaa5;
+}
+
+.contentbox {
+     background-color: white;
+     margin: auto;
+     margin-top: 50px;
+}
+
+.imagebox {
+    margin: auto;
+    position: relative;
+    position: relative;
+    float: left;
+    width:  250px;
+    height: 200px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+.caption {
+    background-color: #4aaaa5;
+    color: white;
+    margin: auto;
+    padding: 3px;
+    padding-top: 5px;
+    height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 65%;
+    width: 100%;
+}
