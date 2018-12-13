@@ -1,6 +1,6 @@
 # My First Bootstrap Website
 
-This website is a three page fully responsive webiste.
+This website is a full three page webiste.
 
 ## Code Languages
 
