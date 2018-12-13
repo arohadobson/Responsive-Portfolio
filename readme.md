@@ -10,7 +10,7 @@ This website is a three page fully responsive webiste.
 
 ## Deployed Site
 
-[My First Website](https://arohadobson.github.io/Bootstrap-Portfolio/)
+[My First Responsive Website](file:///Users/arohadobson/Dev/homework/Responsive-Portfolio/index.html)
 
 ## Gifs
 
